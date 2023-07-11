@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Comprueba si no se proporciona un argumento en la línea de comandos.
+if ! [ "$1" ]
+then
+    # Si no se proporciona ningún argumento, muestra un mensaje de uso.
+    echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
+else
+    # Si se proporciona un argumento, ejecuta el bloque de código dentro del else.
+    # Utiliza el comando ping para enviar cinco paquetes de solicitud de eco ICMP
+    # a la dirección IP especificada.
+    ping -c 5 "$1"
+fi
