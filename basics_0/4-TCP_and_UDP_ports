@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Mostrar los puertos en escucha con la información del programa asociado
+netstat -lp
