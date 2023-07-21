@@ -19,6 +19,7 @@ Capa de presentación: Esta capa se encarga de la representación de los datos, 
 
 Capa de aplicación: Es la capa más cercana al usuario final y proporciona servicios de red a las aplicaciones. Aquí es donde se encuentran las aplicaciones de usuario final, como navegadores web, clientes de correo electrónico, servicios de transferencia de archivos, etc.
 
+![Imgur](https://media.fs.com/images/community/upload/kindEditor/202107/29/original-seven-layers-of-osi-model-1627523878-JYjV8oybcC.png)
 
 ## LAN, WAN, Internet
 __LAN__ (Red de Área Local): Una LAN es una red de computadoras que se limita a un área geográfica pequeña, como una casa, una oficina o un campus. Se utiliza para la comunicación y el intercambio de recursos entre dispositivos cercanos.
@@ -45,6 +46,8 @@ __Internet__: Es una red global de redes interconectadas que permite la comunica
 IPv6 se creó para abordar el agotamiento de las direcciones IPv4 y proporcionar un espacio de direcciones más amplio debido al crecimiento exponencial de dispositivos conectados a Internet. IPv6 utiliza direcciones más largas (128 bits) en comparación con IPv4 (32 bits) para permitir un mayor número de direcciones disponibles para futuras expansiones de Internet.
 
 *Una subnet (subred)*: es una división lógica de una red IP más grande en subredes más pequeñas. En otras palabras, es una forma de particionar una red en segmentos más pequeños para mejorar la administración y la eficiencia en el enrutamiento de paquetes.
+
+![imagen](https://2.bp.blogspot.com/-iyt79AQA5vE/WQfqhTVnH3I/AAAAAAAACqI/afYpBukychYJqJnEwcsHnRGuudX7j1HeQCLcB/s1600/Tipos%2Bde%2Bredes.jpg)
 
 ## MAC and IP address
 
